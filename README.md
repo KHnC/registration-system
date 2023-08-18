@@ -5,5 +5,5 @@
 To run this project on your machine, please type:
 
 ```
-nmp install react
+node app.js
 ```
